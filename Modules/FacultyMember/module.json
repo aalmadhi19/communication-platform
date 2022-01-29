@@ -1,0 +1,13 @@
+{
+    "name": "FacultyMember",
+    "alias": "facultymember",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FacultyMember\\Providers\\FacultyMemberServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
