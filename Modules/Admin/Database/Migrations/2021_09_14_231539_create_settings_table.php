@@ -25,7 +25,7 @@ class CreateSettingsTable extends Migration
         Settings::create([
             'name' => '2FA',
             'description' => 'enable two-factor authentication',
-            'status' => true,
+            'status' => false,
         ]);
     }
 
