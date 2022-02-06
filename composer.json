@@ -15,6 +15,7 @@
         "laravelcollective/html": "^6.2",
         "nwidart/laravel-modules": "^8.2",
         "rap2hpoutre/laravel-log-viewer": "^1.7",
+        "symfony/dotenv": "^5.4",
         "twilio/sdk": "^6.28",
         "uxweb/sweet-alert": "^2.0"
     },
